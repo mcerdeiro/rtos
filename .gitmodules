@@ -1,0 +1,3 @@
+[submodule "osek"]
+	path = osek
+	url = https://github.com/mcerdeiro/rtos.osek.git
